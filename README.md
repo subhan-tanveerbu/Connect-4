@@ -51,7 +51,7 @@ The game utilizes the **Minimax Algorithm** to evaluate possible future board st
 ## 📂 Project Structure
 
 ### 🎮 Opening Interface
-![connect4](connect4.jpg)
+![connect4](connect4.JPG)
 
 ### 🏆 Game End Screen
-![connect](connect.jpg)
+![connect](connect.JPG)
